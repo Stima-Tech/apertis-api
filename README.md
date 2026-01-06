@@ -1,2 +1,2 @@
-# Stima API
-This is an issue-only repo for [Stima API Server](https://api.stima.tech).
+# Apertis
+This is an issue-only repo for [Apertis API Platform](https://apertis.ai).
